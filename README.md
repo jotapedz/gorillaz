@@ -1,6 +1,5 @@
 
   <h1 align="center">Projeto 05 - Gorillaz🎸 </h1>
-  ![preview](images/preview-gorillaz.png)
 
 ## ✏️ Sobre
 
